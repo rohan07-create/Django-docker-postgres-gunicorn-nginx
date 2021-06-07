@@ -1,4 +1,5 @@
 FROM python:3.8.5-alpine
+MAINTAINER Rohan Chourasiya
 WORKDIR /app
 COPY ./myproj /app
 COPY ./requirement.txt /app
