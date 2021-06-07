@@ -6,12 +6,16 @@ Gunicorn works and provide our Django site through wsgi.
 Nginx serves our static files.
 
 ## Installation
-First Install docker for your Machine
+First Install docker for your Machine.
 [With the help of Docker documentation](https://docs.docker.com/engine/install/)
 
 ## To run:
 ```bash
  docker-compose up -d
+```
+After making any changes make sure to build it once again
+```bash
+ docker-compose build
 ```
 
 ## To stop:
