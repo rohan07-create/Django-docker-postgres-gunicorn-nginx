@@ -7,6 +7,8 @@ Nginx serves our static files.
 
 ## Installation
 ![docker](https://img.shields.io/badge/Containerized%20With-Docker-blue?style=for-the-badge&logo=docker)
+
+
 First Install docker for your Machine.
 [With the help of Docker documentation](https://docs.docker.com/engine/install/)
 
