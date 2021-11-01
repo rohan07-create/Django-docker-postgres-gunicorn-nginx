@@ -1,6 +1,6 @@
 # Django-docker-postgres-gunicorn-nginx
 ## Description
-!(https://img.shields.io/badge/Made%20With-Django-green?style=for-the-badge&logo=django)
+![django](https://img.shields.io/badge/Made%20With-Django-green?style=for-the-badge&logo=django)
 
 The Project is all about deployment of Django based basic web-app using Docker, Gunicorn and Nginx.
 By default Django uses dbsqlite3 in this project we are using postgresql.
@@ -34,4 +34,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Author
-[Rohan Chourasiya](https://github.com/rohan07-create)
+![Rohan Chourasiya](https://github.com/rohan07-create)
